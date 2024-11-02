@@ -26,3 +26,12 @@ https://github.com/tmux-plugins/tmux-resurrect
 
 * `prefix + Ctrl-s` - save
 * `prefix + Ctrl-r` - restore
+
+### tmux-pain-control
+
+https://github.com/tmux-plugins/tmux-pain-control
+
+* `prefix + hjkl` - move to pane
+* `prefix + HJKL` - resize current pane by 5 cells
+* `prefix + |-\_` - split pane
+* `prefix + > <` - move window to right or left
